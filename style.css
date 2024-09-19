@@ -18,11 +18,21 @@ section {
   width: 500px;
   margin: auto;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.424);
+  
 }
 
 div {
   text-align: center;
   padding: 10px;
+  
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.424);
+  object-fit: cover;
 }
 
 footer {
